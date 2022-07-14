@@ -1,0 +1,30 @@
+
+.heading{font-weight: 600; font-size: 40px; margin-top: 2rem;}
+.f1 label{margin-left:2rem; margin-top: 1rem; font-size: 16px; font-weight: 500;}
+.f1 input{margin-left: 2rem; border: 0px; border-bottom: 1px solid black; width: 80%; padding:.8rem ;}
+.f1 .para1{margin-left: 17rem; font-size: 15px; font-weight: 500; margin-top: .7rem; }
+
+.account{display: flex;}
+.account a{text-decoration: line-through; color: blue;}
+.para2{font-size: 15px; font-weight: 500; margin-top: 1.5rem;}
+.para3{font-size: 15px; font-weight: 500; margin-top: 1.5rem; margin-left: 6rem;}
+.para4{ margin-left: .5rem; color: rgb(55, 55, 175); margin-top: 1.5rem; font-size: 17px; font-weight: 500; text-decoration: double; }
+
+
+
+
+@media (max-width:1140px){
+    
+}
+
+  @media (max-width:414px){
+  
+  
+  .f1 .para1{margin-left: 11rem; }
+  .f1 .para3{margin-left: 3.5rem;}
+ }
+  
+  
+  
+  
+  

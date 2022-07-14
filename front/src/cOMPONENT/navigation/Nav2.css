@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+html, body{
+  height: 100%; 
+  width: 100%;
+  font-family: 'poppins', sans-serif ;
+  color: rgb(14, 12, 12);
+  background-color: rgb(252, 252, 252);
+  
+}
+.header2{ border-bottom: 1px solid rgb(31, 30, 30, 0.2); margin-top: .9rem; }
+.nav2{display: flex;}
+.nav2 li{list-style: none; padding: .5rem;}
+.nav2 a{color: black;}
+.nav2 a:hover{color: brown;}
+
+
+
+@media (max-width:414px){
+
+  .header2{display: none;}
+}
